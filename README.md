@@ -1,5 +1,6 @@
-### Hi there 👋
+![Group 3](https://github.com/jadejamig/jadejamig/assets/57212583/d17bc47a-406e-4b0f-ae11-5f0251e2d745)
 
+### Hi there 👋
 ![](https://komarev.com/ghpvc/?username=jadejamig)
 
 <!--
@@ -16,3 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
