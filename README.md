@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://github.com/jadejamig/jadejamig/assets/57212583/8a1f3b39-972a-4b01-8afe-42a98308da6c" alt="React" width="200">
-<img src="https://github.com/jadejamig/jadejamig/assets/57212583/88ebbd03-db34-4f0e-ab2e-c31947734309" alt="Node" width="230">
-<img src="https://github.com/jadejamig/jadejamig/assets/57212583/f9a4eee8-6556-4eaf-9bea-f8a091be6f28" alt="TypeScript" width="250">
-<img src="https://github.com/jadejamig/jadejamig/assets/57212583/8dd72763-3b82-45d6-9ba4-c5ad58e32193" alt="Tailwindcss" width="250">
+<img src="https://github.com/jadejamig/jadejamig/assets/57212583/8a1f3b39-972a-4b01-8afe-42a98308da6c" alt="React" width="150">
+<img src="https://github.com/jadejamig/jadejamig/assets/57212583/88ebbd03-db34-4f0e-ab2e-c31947734309" alt="Node" width="180">
+<img src="https://github.com/jadejamig/jadejamig/assets/57212583/f9a4eee8-6556-4eaf-9bea-f8a091be6f28" alt="TypeScript" width="200">
+<img src="https://github.com/jadejamig/jadejamig/assets/57212583/8dd72763-3b82-45d6-9ba4-c5ad58e32193" alt="Tailwindcss" width="200">
 
 
