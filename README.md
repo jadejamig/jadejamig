@@ -18,3 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![React](https://github.com/jadejamig/jadejamig/assets/57212583/8a1f3b39-972a-4b01-8afe-42a98308da6c) ![Node js](https://github.com/jadejamig/jadejamig/assets/57212583/88ebbd03-db34-4f0e-ab2e-c31947734309)
+![TypeScript](https://github.com/jadejamig/jadejamig/assets/57212583/f9a4eee8-6556-4eaf-9bea-f8a091be6f28) ![Tailwindcss](https://github.com/jadejamig/jadejamig/assets/57212583/8dd72763-3b82-45d6-9ba4-c5ad58e32193)
+
+
